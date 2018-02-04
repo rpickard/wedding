@@ -121,17 +121,15 @@ const websiteContent = (
 
     <TopicContainer id="logistics" title="Logistics">
         <div className="container">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+        <p>Both venues lie in the heart of London within easy walking disance of tube stations.</p>
 
       <hr />
 
         <p>
             <img className="large-image" src="img/stjohnswood.png" alt="St Johns Wood" />
         </p>
-      <h2>GETTING TO ST. JOHNS WOOD</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+      <h2>GETTING TO ST. JOHNS WOOD CHURCH</h2>
+        <p>St. Johns Wood Church lies at Lord Round-about the end of the high street in St. John's Wood, approximately 10 minutes walk from the tube station.</p>
       <hr />
 
       <p>
@@ -139,14 +137,14 @@ const websiteContent = (
       </p>
 
         <h2>GETTING TO CHANDOS HOUSE</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <p>Chandos House is in central London and within easy walking distance of three Underground stations. The closest of these is Oxford Circus.
         </p>
         <hr />
 
       <div id="gmap">
           <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d9928.951999906347!2d-0.16423449766382253!3d51.52719442421343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x48761abed2f747e3%3A0x457fb7605bb8888b!2sSt+John&#39;s+Wood+Church%2C+Lord%E2%80%99s+Roundabout%2C+London+NW8+7NE!3m2!1d51.530468199999994!2d-0.1682359!4m5!1s0x48761ad46afa77a3%3A0x6a9e33df1324edf1!2sChandos+House%2C+Queen+Anne+Street%2C+London!3m2!1d51.518629399999995!2d-0.1451182!5e0!3m2!1sen!2suk!4v1517775752272" width="600" height="450"/>
       </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <p>On the day, transport between the venues will be organised, however if you would prefer a walk through Regent's park, it will take approximately 30-40 minutes.
         </p>
 
       <hr />
