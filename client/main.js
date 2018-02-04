@@ -159,6 +159,8 @@ const websiteContent = (
       <p>We feel honoured that you are all travelling a long way to come and celebrate our special day with us. </p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
+        <p style={{textAlign: "center"}}>
+            <a href="https://www.amazon.co.uk/hz/wishlist/ls/8UZBHTEBJ45K?&sort=default">Amazon Wishlist</a></p>
       <p>Thank you in advance!
       </p>
     </TopicContainer>

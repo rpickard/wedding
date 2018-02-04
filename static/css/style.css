@@ -508,6 +508,15 @@ img.location-image {
         background-size: 140%;
     }
 
+    .topic-wrapper {
+        padding-top: 100px;
+    }
+
+    #content {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
     h1 {
         font-size: 2em;
     }
@@ -527,7 +536,7 @@ img.location-image {
     }
 
     .titlebar .bride-name {
-        font-size: 4em;
+        font-size: 3em;
         display: inline-block;
     }
 
