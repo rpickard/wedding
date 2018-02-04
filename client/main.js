@@ -69,8 +69,10 @@ const websiteContent = (
             <p>The ceremony will start at  TBC at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
                 seated and so we can start on time.
             </p>
-            <p>After the ceremony we will raise a glass of champagne and someone will lead you to the reception where drinks and appetizers will
+            <p>After the ceremony we will raise a glass of champagne and someone will lead you to the reception at Chandos House where drinks and appetizers will
                 be served.
+            </p>
+            <p>The wedding dinner will follow along with the speeches and will be rounded off with entertainment and dancing.
             </p>
             <p>
                 Wedding attire is summer formal. Gentlemen, please wear a light suit with which you will be comfortable with the heat. And ladies,
