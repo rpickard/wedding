@@ -11,7 +11,6 @@ const GuestSchema = new mongoose.Schema({
     email: String,
     meal: String,
     dietaryRestrictions: String,
-    hotelRoom: String,
 });
 
 const RSVPSchema = new mongoose.Schema({
@@ -19,6 +18,7 @@ const RSVPSchema = new mongoose.Schema({
     date: { type: Date, default: () => Date.now() },
     guest: { type: GuestSchema, required: true },
     willAttend: { type: Boolean, required: true },
+    hotelRoom: String,
     guestPlusOne: GuestSchema,
 });
 
