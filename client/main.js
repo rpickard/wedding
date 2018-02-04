@@ -92,7 +92,7 @@ const websiteContent = (
       </div>
 
       <hr />
-
+       <div className="container">
       <h2>ON THE WEDDING DAY</h2>
       <p>The ceremony will start at  TBC at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
          seated and so we can start on time.
@@ -104,6 +104,7 @@ const websiteContent = (
         Wedding attire is summer formal. Gentlemen, please wear a light suit with which you will be comfortable with the heat. And ladies,
         you look pretty as you are, in your formal summer dresses :)
       </p>
+       </div>
 
       <hr />
 
@@ -115,6 +116,7 @@ const websiteContent = (
     </TopicContainer>
 
     <TopicContainer id="logistics" title="Logistics">
+        <div className="container">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
 
@@ -149,6 +151,7 @@ const websiteContent = (
         <p>We have reserved all of the rooms in the house so that we have the place to ourselves for the weekend.  If you're not from London and want ot stay either the night before or night of the wedding, please let us know and we can see if there is space in the Hotel.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
+        </div>
     </TopicContainer>
 
     <TopicContainer id="gifts" title="Gifts">
