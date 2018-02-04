@@ -52,7 +52,7 @@ class RSVPForm extends React.Component {
                     'attendance',
                     'Attendance*:',
                     [
-                        { label: 'I\'m Coming', value: 'yes' },
+                        { label: 'I\'m coming', value: 'yes' },
                         { label: 'I can\'t make it', value: 'no' }
                     ],
                     guestInfo)
