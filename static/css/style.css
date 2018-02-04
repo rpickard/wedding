@@ -26,7 +26,7 @@ body {
 }
 
 a {
-    color: #b1bf92;
+    color: white;
     text-decoration: none;
 }
 
@@ -54,7 +54,7 @@ p {
 
 hr {
     border-bottom:#808080 solid 1px;
-    border-top:#1e1e1e solid 1px;
+    border-top:#bb0a1e solid 1px;
     margin: 60px auto 60px auto;
     width: 90%;
 }
@@ -80,7 +80,7 @@ hr {
 
 .titlebar {
     background-color: black;
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(15, 82, 186, 0.7);
     border-radius: 8px;
     display: block;
     margin: auto;
@@ -112,7 +112,7 @@ hr {
  */
 
 .menu {
-    background-color: #333;
+    background-color: #9fb9e3;
 }
 
 .menu ul {
@@ -134,14 +134,14 @@ hr {
 }
 
 .menu ul li a:hover {
-    background: #b1bf92;
+    background: #bb0a1e;
     color: #fff;
     outline: none;
     text-decoration: none;
 }
 
 .menu ul li a.active {
-    background: #b1bf92;
+    background: #bb0a1e;
     color: #fff;
     outline: none;
     text-decoration: none;
@@ -159,7 +159,7 @@ hr {
 
 .topic-wrapper section {
     background-color: black;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(15, 82, 186, 0.6);
     color: white;
     padding: 40px 40px 70px 40px;
     text-align: left;
@@ -315,7 +315,7 @@ hr {
 
 img.thumbnail {
     background-color: black;
-    border: 4px solid #090909;
+    border: 4px solid white;
     float: left;
     height: 120px;
     margin-bottom: 0;
@@ -343,7 +343,7 @@ img.hero {
 }
 
 img.large-image {
-    border: 10px solid #090909;
+    border: 10px solid white;
     display: block;
     height: auto;
     margin-left: auto;
@@ -359,7 +359,7 @@ img.large-image {
 }
 
 img.location-image {
-    border: 10px solid #090909;
+    border: 10px solid white;
     display: block;
     height: auto;
     margin-left: auto;
