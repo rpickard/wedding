@@ -91,6 +91,7 @@ const websiteContent = (
           <p style={{textAlign: "center"}}>
             <a href="https://goo.gl/maps/fK5CnjBEsiT2">Google Maps</a>
           </p>
+            <p>Our wedding will be held in our local Church. The ceremony will be quite traditional, and we hope that you enjoy the sense of history and tradition that this venue provides.
             <p>During the late Middle Ages, St John’s Wood really was a wood, which took its name from the Knights Hospitaller of St John of Jerusalem who owned the land.  </p>
             <p>St John’s Wood Church, built in 1814 by Thomas Hardwick, overlooks Lords Roundabout by Regents Park. With its original box pews and fine collection of monuments, the building has been in continuous use as a place of Christian worship since its construction.
           </p>
@@ -104,8 +105,9 @@ const websiteContent = (
           <p style={{textAlign: "center"}}>
             <a href="https://goo.gl/maps/mgJ53HKnB592">Google Maps</a>
           </p>
+            <p>Following the ceremony we will move to Chandos House for the reception.</p>
           <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
-            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house offers 6 principal function rooms, each with their own unique character and ambience, as well as a charming outdoor walled Garden Terrace, which provides a tranquil haven just moments from the bustle of Oxford Street.
+            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine offers 6 principal function rooms, each with their own unique character and ambience, as well as a charming outdoor walled Garden Terrace.
           </p>
         </div>
       </div>
@@ -158,13 +160,13 @@ const websiteContent = (
 
     <TopicContainer id="gifts" title="Gifts">
       <p>Dear family and friends,</p>
-      <p>We feel honoured that you are all travelling a long way to come and celebrate our special day with us. </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </p>
+      <p>We feel honoured that most of you are most travelling a long way to come and celebrate our special day with us. We look forward to seeing you and sharing our wedding with you and consider your presence gift enough.</p>
+        <p>If you would, however, like to contribute a little something extra to our new life together, we've included a few ideas of things we would love below.</p>
       <p>Thank you in advance!
       </p>
         <p style={{textAlign: "center"}}>
-            <a href="https://www.amazon.co.uk/hz/wishlist/ls/8UZBHTEBJ45K?&sort=default">Amazon Wishlist</a></p>
+            <a href="https://www.amazon.co.uk/hz/wishlist/ls/8UZBHTEBJ45K?&sort=default">Amazon Wishlist</a>
+        </p>
     </TopicContainer>
 
   </div>
