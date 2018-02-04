@@ -64,6 +64,21 @@ const websiteContent = (
     </TopicContainer>
 
     <TopicContainer id="wedding" title="Wedding">
+        <div className="container">
+            <h2>ON THE WEDDING DAY</h2>
+            <p>The ceremony will start at  TBC at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
+                seated and so we can start on time.
+            </p>
+            <p>After the ceremony we will raise a glass of champagne and someone will lead you to the reception where drinks and appetizers will
+                be served.
+            </p>
+            <p>
+                Wedding attire is summer formal. Gentlemen, please wear a light suit with which you will be comfortable with the heat. And ladies,
+                you look pretty as you are, in your formal summer dresses :)
+            </p>
+        </div>
+
+        <hr />
       <div className="container">
         <div className="one-half column">
           <h2>CEREMONY</h2>
@@ -74,7 +89,8 @@ const websiteContent = (
           <p style={{textAlign: "center"}}>
             <a href="https://goo.gl/maps/fK5CnjBEsiT2">Google Maps</a>
           </p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            <p>During the late Middle Ages, St John’s Wood really was a wood, which took its name from the Knights Hospitaller of St John of Jerusalem who owned the land.  </p>
+            <p>St John’s Wood Church, built in 1814 by Thomas Hardwick, overlooks Lords Roundabout by Regents Park. With its original box pews and fine collection of monuments, the building has been in continuous use as a place of Christian worship since its construction.
           </p>
         </div>
         <div className="one-half column">
@@ -86,31 +102,17 @@ const websiteContent = (
           <p style={{textAlign: "center"}}>
             <a href="https://goo.gl/maps/mgJ53HKnB592">Google Maps</a>
           </p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
+            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house offers 6 principal function rooms, each with their own unique character and ambience, as well as a charming outdoor walled Garden Terrace, which provides a tranquil haven just moments from the bustle of Oxford Street.
           </p>
         </div>
       </div>
 
       <hr />
-       <div className="container">
-      <h2>ON THE WEDDING DAY</h2>
-      <p>The ceremony will start at  TBC at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
-         seated and so we can start on time.
-      </p>
-      <p>After the ceremony we will raise a glass of champagne and someone will lead you to the reception where drinks and appetizers will
-         be served.
-      </p>
-      <p>
-        Wedding attire is summer formal. Gentlemen, please wear a light suit with which you will be comfortable with the heat. And ladies,
-        you look pretty as you are, in your formal summer dresses :)
-      </p>
-       </div>
-
-      <hr />
 
     </TopicContainer>
 
-    <TopicContainer id="rsvp" title="RSVP">
+    <TopicContainer id="rsvp" title="R.S.V.P.">
       <RSVPForm>
       </RSVPForm>
     </TopicContainer>
@@ -147,7 +149,7 @@ const websiteContent = (
 
       <hr />
 
-      <h2>ACCOMMODATIONS</h2>
+      <h2>ACCOMMODATION</h2>
         <p>We have reserved all of the rooms in the house so that we have the place to ourselves for the weekend.  If you're not from London and want ot stay either the night before or night of the wedding, please let us know and we can see if there is space in the Hotel.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
@@ -159,10 +161,10 @@ const websiteContent = (
       <p>We feel honoured that you are all travelling a long way to come and celebrate our special day with us. </p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
         </p>
-        <p style={{textAlign: "center"}}>
-            <a href="https://www.amazon.co.uk/hz/wishlist/ls/8UZBHTEBJ45K?&sort=default">Amazon Wishlist</a></p>
       <p>Thank you in advance!
       </p>
+        <p style={{textAlign: "center"}}>
+            <a href="https://www.amazon.co.uk/hz/wishlist/ls/8UZBHTEBJ45K?&sort=default">Amazon Wishlist</a></p>
     </TopicContainer>
 
   </div>
