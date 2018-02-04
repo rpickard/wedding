@@ -88,9 +88,6 @@ const websiteContent = (
           <p>
             <a href="img/stjohnswoodchurch.jpg"><img className="location-image" src="img/stjohnswoodchurch.jpg" alt="St. John's Wood Church" /></a>
           </p>
-          <p style={{textAlign: "center"}}>
-            <a href="https://goo.gl/maps/fK5CnjBEsiT2">Google Maps</a>
-          </p>
             <p>Our wedding will be held in our local Church. The ceremony will be quite traditional, and we hope that you enjoy the sense of history and tradition that this venue provides.
             <p>During the late Middle Ages, St John’s Wood really was a wood, which took its name from the Knights Hospitaller of St John of Jerusalem who owned the land.  </p>
             <p>St John’s Wood Church, built in 1814 by Thomas Hardwick, overlooks Lords Roundabout by Regents Park. With its original box pews and fine collection of monuments, the building has been in continuous use as a place of Christian worship since its construction.
@@ -101,9 +98,6 @@ const websiteContent = (
           <p>TBC @ Chandos House</p>
           <p>
             <a href="img/chandoshouse.jpg"><img className="location-image" src="img/chandoshouse.jpg" alt="Chandos House" /></a>
-          </p>
-          <p style={{textAlign: "center"}}>
-            <a href="https://goo.gl/maps/mgJ53HKnB592">Google Maps</a>
           </p>
             <p>Following the ceremony we will move to Chandos House for the reception.</p>
           <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
@@ -132,7 +126,10 @@ const websiteContent = (
         </p>
       <h2>GETTING TO ST. JOHNS WOOD CHURCH</h2>
         <p>St. Johns Wood Church lies at Lord Round-about the end of the high street in St. John's Wood, approximately 10 minutes walk from the tube station.</p>
-      <hr />
+            <p style={{textAlign: "center"}}>
+                <a href="https://goo.gl/maps/fK5CnjBEsiT2">Google Maps</a>
+            </p>
+            <hr />
 
       <p>
         <img className="large-image" src="img/chandosreception.jpg" alt="Chandos House Reception" />
@@ -141,6 +138,9 @@ const websiteContent = (
         <h2>GETTING TO CHANDOS HOUSE</h2>
         <p>Chandos House is in central London and within easy walking distance of three Underground stations. The closest of these is Oxford Circus.
         </p>
+            <p style={{textAlign: "center"}}>
+                <a href="https://goo.gl/maps/mgJ53HKnB592">Google Maps</a>
+            </p>
         <hr />
 
       <div id="gmap">
