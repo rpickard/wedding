@@ -197,10 +197,10 @@ hr {
 }
 
 .wizard-form button {
-    background-color: white;
+    background-color: #000080;
     border-radius: 8px;
     border: none;
-    color: black;
+    color: white;
     cursor: pointer;
     font-family: inherit;
     font-size: inherit;
