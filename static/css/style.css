@@ -39,6 +39,10 @@ h1 {
 h2 {
     font-size: 1.7em;
     padding-bottom: 15px;
+    color: #bb0a1e;
+    text-weight: bold;
+    text-shadow:
+            -2px 2px 0 white;
 }
 
 h3 {
