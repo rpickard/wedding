@@ -492,6 +492,10 @@ img.location-image {
     .titlebar .wedding-date {
         font-size: 2.5em;
     }
+
+    img.location-image {
+        max-width: 300px;
+    }
 }
 
 /* Tablet */
@@ -503,6 +507,10 @@ img.location-image {
 
     .titlebar .bride-name {
         font-size: 6em;
+    }
+
+    img.location-image {
+        max-width: 200px;
     }
 }
 
@@ -568,6 +576,7 @@ img.location-image {
     img.location-image {
         max-width: 200px;
     }
+
     img.large-image {
         max-width: 75%;
     }

@@ -84,8 +84,7 @@ class RSVPForm extends React.Component {
                             [
                                 { label: 'Just Me', value: '1' },
                                 { label: 'Me plus one please', value: '2' },
-                                { label: 'Me plus two please', value: '3' },
-                                { label: 'Me plus three please', value: '4' },
+                                { label: 'Me plus more', value: '3+' },
                             ],
                             guestPlusOneInfo)}
 
@@ -123,7 +122,7 @@ class RSVPForm extends React.Component {
                         { label: 'Yes', value: 'yes' },
                         { label: 'No', value: 'no' }
                     ],
-                    guestPlusOneInfo)}
+                    guestInfo)}
                 <br />
 
                 {this.state.submitStatus &&
@@ -269,13 +268,9 @@ class RSVPForm extends React.Component {
         var guestPlusOneInfo = Object.assign({}, state.guestPlusOneInfo);
 
         // TODO: This is a hack, find a way to properly construct the request
-        const willAttend = guestInfo.attendance === 'yes';
-        delete guestInfo['attendance'];
+        const willAttend = guestInfo.attendance !== 'no';
 
-        if (guestPlusOneInfo.attendance === 'yes') {
-            delete guestPlusOneInfo['attendance'];
-        }
-        else {
+        if (guestPlusOneInfo.attendance === '1') {
             guestPlusOneInfo = undefined;
         }
 
