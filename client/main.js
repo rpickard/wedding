@@ -38,14 +38,14 @@ const websiteContent = (
           <div className="one-half column">
             <p>
               <a href="img/fan.jpg"><img className="thumbnail" src="img/fan.jpg" alt="Fan" /></a>
-              Fan - need to populate some info here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              Fan was born in Shanghai, China and moved to England when she was in high school. She later moved to London to attend Imperial College where she studied Maths. After university, Fan decided to stay in London to begin her career and eventually meet Raleigh!
             </p>
           </div>
 
           <div className="one-half column">
             <p>
               <a href="img/raleigh.jpg"><img className="thumbnail" src="img/raleigh.jpg" alt="Raleigh" /></a>
-              Raleigh - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              Although officially American, Raleigh was born in the mountains of South India. He left India when he was 12 for a short stint in America before moving to England. Raleigh also decided to study Maths at Imperial College, and although they must have passed each other in the halls they never met. Luckily, Raleigh also decided to settle down in London, only a few miles away from Fan. 
             </p>
           </div>
         </div>
@@ -54,12 +54,12 @@ const websiteContent = (
       <hr />
 
       <p>
-        <img className="large-image" src="img/proposal.jpg" alt="Kal Proposing To Jocelyn" />
+        <img className="large-image" src="img/proposal.jpg" alt="Ral Proposing To Fan" />
       </p>
 
       <h2>OUR STORY</h2>
       <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Raleigh proposed to Fan on top of the mountain where he was born In Kodaikanal, India. The proposal took place just meters from where he was born, overlooking a 2000 meter cliff face and a beautiful new years sunrise. 
       </p>
     </TopicContainer>
 
@@ -146,14 +146,14 @@ const websiteContent = (
           <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d9928.951999906347!2d-0.16423449766382253!3d51.52719442421343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x48761abed2f747e3%3A0x457fb7605bb8888b!2sSt+John&#39;s+Wood+Church%2C+Lord%E2%80%99s+Roundabout%2C+London+NW8+7NE!3m2!1d51.530468199999994!2d-0.1682359!4m5!1s0x48761ad46afa77a3%3A0x6a9e33df1324edf1!2sChandos+House%2C+Queen+Anne+Street%2C+London!3m2!1d51.518629399999995!2d-0.1451182!5e0!3m2!1sen!2suk!4v1517775752272" width="600" height="450"/>
       </div>
 <h2>TRANSPORT ON THE DAY</h2>
-        <p>On the day, transport between the venues will be organised, however if you would prefer a walk through Regent's park, it will take approximately 30-40 minutes.
+        <p>On the day, transport between the two venues will be organised, however if you would prefer a walk through Regent's park, it will take approximately 30-40 minutes.
         </p>
 
       <hr />
 
       <h2>ACCOMMODATION</h2>
-        <p>We have reserved all of the rooms in the house so that we have the place to ourselves for the weekend.  If you're not from London and want ot stay either the night before or night of the wedding, please let us know and we can see if there is space in the Hotel.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <p>We have reserved all 17 of the rooms in Chandos house so that we have the place to ourselves for the weekend.  If you're not from London and want ot stay either the night before or night of the wedding, please let us know and we can see if there is space in the house.</p>
+        <p>If you're staying for longer, there are several other hotels near by, please get in touch if you need any suggestions. 
         </p>
         </div>
     </TopicContainer>
