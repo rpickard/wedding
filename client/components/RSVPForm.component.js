@@ -175,7 +175,7 @@ class RSVPForm extends React.Component {
         if (!guestPlusOneInfo.attendance)
             return 'Please let us know whether you will be bringing a plus one';
 
-        if (guestPlusOneInfo.attendance === 'no')
+        if (guestPlusOneInfo.attendance === '1')
             return null;
 
         if (!guestPlusOneInfo.name || guestPlusOneInfo.name.trim().empty)
