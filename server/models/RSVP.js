@@ -17,7 +17,7 @@ const RSVPSchema = new mongoose.Schema({
     rsvpId: { type: String, required: true },
     date: { type: Date, default: () => Date.now() },
     guest: { type: GuestSchema, required: true },
-    willAttend: { type: Boolean, required: true },
+    willAttend: { type: String, required: true },
     hotelRoom: String,
     guestPlusOne: GuestSchema,
 });

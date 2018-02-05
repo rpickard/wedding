@@ -52,14 +52,15 @@ class RSVPForm extends React.Component {
                     'attendance',
                     'Attendance*:',
                     [
-                        { label: 'I\'m coming', value: 'yes' },
+                        { label: 'I\'m coming for the wedding only', value: 'yes' },
+                        { label: 'I\'m coming for the wedding and reception', value: 'reception' },
                         { label: 'I can\'t make it', value: 'no' }
                     ],
                     guestInfo)
                 }
                 <br />
 
-                {guestInfo.attendance === 'yes' &&
+                {guestInfo.attendance === 'reception' &&
                     <div>
                         {this.renderRadioInput(
                             'meal',
@@ -81,27 +82,21 @@ class RSVPForm extends React.Component {
                             'attendance',
                             'Plus ones:',
                             [
-                                { label: 'Me plus one please', value: 'yes' },
-                                { label: 'Just Me', value: 'no' }
+                                { label: 'Just Me', value: '1' },
+                                { label: 'Me plus one please', value: '2' },
+                                { label: 'Me plus two please', value: '3' },
+                                { label: 'Me plus three please', value: '4' },
                             ],
                             guestPlusOneInfo)}
 
-                        <br />
-                        {this.renderRadioInput(
-                            'hotelRoom',
-                            'Would you like a room in the hotel for the wedding night*?',
-                            [
-                                { label: 'Yes', value: 'yes' },
-                                { label: 'No', value: 'no' }
-                            ],
-                            guestPlusOneInfo)}
                     </div>
                 }
                 <br />
 
-                {guestInfo.attendance === 'yes' && guestPlusOneInfo.attendance === 'yes' &&
+                {guestInfo.attendance === 'reception' && guestPlusOneInfo.attendance && guestPlusOneInfo.attendance !== '1' &&
                     <div>
-                        {this.renderTextInput('name', 'Name:', guestPlusOneInfo)}
+                        <br />
+                        {this.renderTextInput('name', 'Names:', guestPlusOneInfo)}
                         <br />
                         {this.renderRadioInput(
                             'meal',
@@ -120,6 +115,15 @@ class RSVPForm extends React.Component {
                         <br />
                     </div>
                 }
+
+                {this.renderRadioInput(
+                    'hotelRoom',
+                    'Would you like a room in the hotel for the wedding night*?',
+                    [
+                        { label: 'Yes', value: 'yes' },
+                        { label: 'No', value: 'no' }
+                    ],
+                    guestPlusOneInfo)}
                 <br />
 
                 {this.state.submitStatus &&
