@@ -70,8 +70,8 @@ const websiteContent = (
             <p>The ceremony will start at  TBC at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
                 seated and so we can start on time.
             </p>
-            <p>After the ceremony we will raise a glass of champagne and someone will lead you to the reception at Chandos House where drinks and appetizers will
-                be served.
+            <p>After the ceremony someone will lead you to the reception at Chandos House where drinks and appetizers will
+                be served. On the way, pictures will be taken outside the church and at Chandos house as well as in the Regents Park Rose Garden (weather permitting).
             </p>
             <p>The wedding dinner will follow along with the speeches and will be rounded off with entertainment and dancing.
             </p>
@@ -129,7 +129,7 @@ const websiteContent = (
 
     <TopicContainer id="logistics" title="Logistics">
         <div className="container">
-        <p>Both venues lie in the heart of London within easy walking disance of tube stations.</p>
+        <p>Both venues lie in the heart of London within easy walking disance of the London Underground.</p>
 
       <hr />
 
