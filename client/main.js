@@ -38,7 +38,7 @@ const websiteContent = (
           <div className="one-half column">
             <p>
               <a href="img/fan.jpg"><img className="thumbnail" src="img/fan.jpg" alt="Fan" /></a>
-              Fan was born in Shanghai, China and moved to England when she was in high school. She later moved to London to attend Imperial College where she studied Maths. After university, Fan decided to stay in London to begin her career and eventually meet Raleigh!
+              Fan was born in Shanghai, China and moved to England when she was in high school. She later moved to London to attend Imperial College where she studied Maths. After university, Fan decided to stay in London to begin her career and to eventually meet Raleigh!
             </p>
   <br/>
           </div>
@@ -46,7 +46,7 @@ const websiteContent = (
           <div className="one-half column">
             <p>
               <a href="img/raleigh.jpg"><img className="thumbnail" src="img/raleigh.jpg" alt="Raleigh" /></a>
-              Although officially American, Raleigh was born in the mountains of South India. He left India when he was 12 for a short stint in America before moving to England. Raleigh also decided to study Maths at Imperial College, and although they must have passed each other in the halls they never met. Luckily, Raleigh also decided to settle down in London, only a few miles away from Fan. 
+              Although officially American, Raleigh was born in the mountains of South India. He left India when he was 12 for America before moving to England. Raleigh also decided to study Maths at Imperial, and although they must have passed each other in the halls they never met at university. Luckily, Raleigh also decided to settle down in London, only a few miles away from Fan.
             </p>
           </div>
         </div>
@@ -60,7 +60,7 @@ const websiteContent = (
 
       <h2>OUR STORY</h2>
       <p>
-          Raleigh proposed to Fan on top of the mountain where he was born In Kodaikanal, India. The proposal took place just meters from where he was born, overlooking a 2000 meter cliff face and a beautiful new years sunrise. 
+          Raleigh proposed to Fan on top of the mountain where he was born In Kodaikanal, India. The proposal took place just meters from where he was born, with a backdrop of a 2000 meter cliff-face and the new year's sunrise.
       </p>
     </TopicContainer>
 
@@ -77,7 +77,7 @@ const websiteContent = (
             </p>
             <p>
                 Wedding attire is summer formal. Gentlemen, please wear a light suit with which you will be comfortable with the heat. And ladies,
-                you look pretty as you are, in your formal summer dresses :)
+                you look beautiful as you are, in your formal summer dresses.
             </p>
         </div>
 
@@ -89,7 +89,7 @@ const websiteContent = (
           <p>
             <a href="img/stjohnswoodchurch.jpg"><img className="location-image" src="img/stjohnswoodchurch.jpg" alt="St. John's Wood Church" /></a>
           </p>
-            <p>Our wedding will be held in our local Church. The ceremony will be quite traditional, and we hope that you enjoy the sense of history and tradition that this venue provides.</p>
+            <p>Our wedding will be held in our local Church. The ceremony will be quite traditional, and we hope that you enjoy the sense of history and occassion that this venue provides.</p>
             <p>During the late Middle Ages, St John’s Wood really was a wood, which took its name from the Knights Hospitaller of St John of Jerusalem who owned the land.  </p>
             <p>St John’s Wood Church, built in 1814 by Thomas Hardwick, overlooks Lords Roundabout by Regents Park. With its original box pews and fine collection of monuments, the building has been in continuous use as a place of Christian worship since its construction.
           </p>
@@ -102,7 +102,7 @@ const websiteContent = (
           </p>
             <p>Following the ceremony we will move to Chandos House for the reception.</p>
           <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
-            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine and offers 6 principal function rooms, each with their own unique character and ambience, as well as a charming outdoor walled Garden Terrace.</p>
+            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine and offers 6 principal function rooms and 17 guest rooms, each with their own unique character and ambience.</p>
         </div>
       </div>
 
