@@ -101,7 +101,7 @@ const websiteContent = (
           </p>
             <p>Following the ceremony we will move to Chandos House for the reception.</p>
           <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
-            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine offers 6 principal function rooms, each with their own unique character and ambience, as well as a charming outdoor walled Garden Terrace.</p>
+            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine and offers 6 principal function rooms, each with their own unique character and ambience, as well as a charming outdoor walled Garden Terrace.</p>
         </div>
       </div>
 
