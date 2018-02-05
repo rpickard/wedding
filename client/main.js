@@ -106,11 +106,11 @@ const websiteContent = (
           <p>
             <a href="img/chandoshouse.jpg"><img className="location-image" src="img/chandoshouse.jpg" alt="Chandos House" /></a>
           </p>
-            <p>Following the ceremony we will move to Chandos House for the reception.</p>
+            <p>After the ceremony we will move to Chandos House, a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771, for the reception.</p>
             <p>
                 <a href="img/weddingreception.jpg"><img className="location-image" src="img/weddingreception.jpg" alt="Reception Room" /></a>
             </p>
-            <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
+            <p>The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
             <p>
                 <a href="img/rooms.jpg"><img className="location-image" src="img/rooms.jpg" alt="Chandos Room" /></a>
             </p>
