@@ -124,7 +124,7 @@ const websiteContent = (
             <img className="large-image" src="img/stjohnswood.png" alt="St Johns Wood" />
         </p>
       <h2>GETTING TO ST. JOHNS WOOD CHURCH</h2>
-        <p>St. Johns Wood Church lies at Lord Round-about the end of the high street in St. John's Wood, approximately 10 minutes walk from the tube station.</p>
+        <p>St. Johns Wood Church lies at Lord Roundabout at the end of the high street in St. John's Wood, approximately 10 minutes walk from the tube station.</p>
             <p style={{textAlign: "center"}}>
                 <a href="https://goo.gl/maps/fK5CnjBEsiT2">Google Maps</a>
             </p>
