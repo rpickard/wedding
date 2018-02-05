@@ -114,7 +114,7 @@ const websiteContent = (
             <p>
                 <a href="img/rooms.jpg"><img className="location-image" src="img/rooms.jpg" alt="Chandos Room" /></a>
             </p>
-            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine and offers 6 principal function rooms and 17 guest rooms, each with their own unique character and ambience.</p>
+            <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, as well as an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine and offers 6 principal function rooms and 17 guest rooms, each with their own unique character and ambience.</p>
         </div>
       </div>
 
