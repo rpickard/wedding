@@ -46,7 +46,7 @@ const websiteContent = (
           <div className="one-half column">
             <p>
               <a href="img/raleigh.jpg"><img className="thumbnail" src="img/raleigh.jpg" alt="Raleigh" /></a>
-              Although officially American, Raleigh was born in the mountains of South India. He left India when he was 12 for America before moving to England. Raleigh also decided to study Maths at Imperial, and although they must have passed each other in the halls they never met at university. Luckily, Raleigh also decided to settle down in London, only a few miles away from Fan.
+              Although officially American, Raleigh was born in the mountains of South India. He left India at 12 for America before moving to England. Raleigh also studied Maths at Imperial, although they never met at university. Luckily, Raleigh also decided to settle down in London, only a few miles away from Fan.
             </p>
           </div>
         </div>
@@ -60,7 +60,7 @@ const websiteContent = (
 
       <h2>OUR STORY</h2>
       <p>
-          Raleigh proposed to Fan on top of the mountain where he was born In Kodaikanal, India. The proposal took place just meters from where he was born, with a backdrop of a 2000 meter cliff-face and the new year's sunrise.
+          Raleigh proposed to Fan on top of the mountain where he was born In Kodaikanal, India. The proposal took place just meters from the hospital room where he was born, with a backdrop of a 2000 meter cliff-face and the new year's sunrise.
       </p>
     </TopicContainer>
 
