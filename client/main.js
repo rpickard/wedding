@@ -40,6 +40,7 @@ const websiteContent = (
               <a href="img/fan.jpg"><img className="thumbnail" src="img/fan.jpg" alt="Fan" /></a>
               Fan was born in Shanghai, China and moved to England when she was in high school. She later moved to London to attend Imperial College where she studied Maths. After university, Fan decided to stay in London to begin her career and eventually meet Raleigh!
             </p>
+  <br/>
           </div>
 
           <div className="one-half column">
