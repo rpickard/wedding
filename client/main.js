@@ -90,7 +90,13 @@ const websiteContent = (
             <a href="img/stjohnswoodchurch.jpg"><img className="location-image" src="img/stjohnswoodchurch.jpg" alt="St. John's Wood Church" /></a>
           </p>
             <p>Our wedding will be held in our local Church. The ceremony will be quite traditional, and we hope that you enjoy the sense of history and occassion that this venue provides.</p>
+            <p>
+                <a href="img/churchinterior.jpg"><img className="location-image" src="img/churchinterior.jpg" alt="St. John's Wood Church Interior" /></a>
+            </p>
             <p>During the late Middle Ages, St John’s Wood really was a wood, which took its name from the Knights Hospitaller of St John of Jerusalem who owned the land.  </p>
+            <p>
+                <a href="img/church-1828.jpg"><img className="location-image" src="img/church-1828.jpg" alt="St. John's Wood Church 1828" /></a>
+            </p>
             <p>St John’s Wood Church, built in 1814 by Thomas Hardwick, overlooks Lords Roundabout by Regents Park. With its original box pews and fine collection of monuments, the building has been in continuous use as a place of Christian worship since its construction.
           </p>
         </div>
@@ -101,7 +107,13 @@ const websiteContent = (
             <a href="img/chandoshouse.jpg"><img className="location-image" src="img/chandoshouse.jpg" alt="Chandos House" /></a>
           </p>
             <p>Following the ceremony we will move to Chandos House for the reception.</p>
-          <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
+            <p>
+                <a href="img/weddingreception.jpg"><img className="location-image" src="img/weddingreception.jpg" alt="Reception Room" /></a>
+            </p>
+            <p>Chandos House is a Grade I listed Georgian townhouse, built by the Adam family between 1769 and 1771. The house is located in the heart of London's medical quarter, between Portland Place, Oxford Circus and the fashionable Marylebone Village.</p>
+            <p>
+                <a href="img/rooms.jpg"><img className="location-image" src="img/rooms.jpg" alt="Chandos Room" /></a>
+            </p>
             <p>Over the years Chandos House has been a private residence to various Dukes, Barons and Counts, an Austrian Embassy.  Today the house is owned by the Royal Society of Medicine and offers 6 principal function rooms and 17 guest rooms, each with their own unique character and ambience.</p>
         </div>
       </div>
