@@ -37,8 +37,9 @@ class RSVPForm extends React.Component {
 
         return (
             <div id={this.props.id} className="wizard-form">
-                <p>Please complete the form below to let us know if you will be joining us in London for our reception at Chandos House. If you have any dietary restrictions, please let us know.
+                <p>Please complete the form below to let us know if you are able to join us in London for the wedding and/or our reception at Chandos House. If you have any dietary restrictions, please let us know.
                 </p>
+                <p>Official invitations will be sent closer to the event once we're clear on numbers and the menu.</p>
                 <br />
 
                 <p>Fields marked with * are mandatory.</p>
