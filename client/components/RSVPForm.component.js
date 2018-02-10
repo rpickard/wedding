@@ -105,7 +105,7 @@ class RSVPForm extends React.Component {
                         <br />
                     </div>
                 }
-                
+
 
                 {this.renderRadioInput(
                     'attendance',
@@ -172,6 +172,8 @@ class RSVPForm extends React.Component {
         if (!guestInfo.address)
             return 'Please provide your address so we can send you your invitation';
 
+        const guestPlusOneInfo = this.state.guestPlusOneInfo;
+        
         if (!guestPlusOneInfo.attendance)
             return 'Please let us know whether you will be bringing a plus one';
 
@@ -182,8 +184,6 @@ class RSVPForm extends React.Component {
         if (guestValidation) {
             return guestValidation;
         }
-
-        const guestPlusOneInfo = this.state.guestPlusOneInfo;
 
         if (guestPlusOneInfo.attendance === '1')
             return null;
