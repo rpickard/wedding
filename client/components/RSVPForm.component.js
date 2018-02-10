@@ -78,17 +78,6 @@ class RSVPForm extends React.Component {
                             'dietaryRestrictions',
                             'Any other dietary restrictions?',
                             guestInfo)}
-                        <br />
-
-                        {this.renderRadioInput(
-                            'attendance',
-                            'Plus ones:',
-                            [
-                                { label: 'Just Me', value: '1' },
-                                { label: 'Me plus one please', value: '2' },
-                                { label: 'Me plus more', value: '3+' },
-                            ],
-                            guestPlusOneInfo)}
 
                     </div>
                 }
@@ -117,6 +106,20 @@ class RSVPForm extends React.Component {
                     </div>
                 }
 
+                <br />
+
+                {this.renderRadioInput(
+                    'attendance',
+                    'Plus ones:',
+                    [
+                        { label: 'Just Me', value: '1' },
+                        { label: 'Me plus one please', value: '2' },
+                        { label: 'Me plus more', value: '3+' },
+                    ],
+                    guestPlusOneInfo)}
+
+                <br />
+                
                 {this.renderRadioInput(
                     'hotelRoom',
                     'Would you like a room in the hotel for the wedding night*?',
