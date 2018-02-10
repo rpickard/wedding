@@ -39,7 +39,7 @@ class RSVPForm extends React.Component {
             <div id={this.props.id} className="wizard-form">
                 <p>Please complete the form below to let us know if you are able to join us in London for the wedding and/or our reception at Chandos House. If you have any dietary restrictions, please let us know.
                 </p>
-                <p>Official invitations will be sent closer to the event once we're clear on numbers and the menu.</p>
+                <p>Please provide your address and official invitations will be sent closer to the event once we're clear on numbers and the menu.</p>
                 <br />
 
                 <p>Fields marked with * are mandatory.</p>
@@ -47,6 +47,7 @@ class RSVPForm extends React.Component {
 
                 {this.renderTextInput('name', 'Name*:', guestInfo)}
                 {this.renderTextInput('email', 'Email*:', guestInfo)}
+                {this.renderTextInput('address', 'Address*:', guestInfo)}
                 <br />
 
                 {this.renderRadioInput(
@@ -165,6 +166,9 @@ class RSVPForm extends React.Component {
 
         if (!guestInfo.email || guestInfo.email.trim().empty || !isEmail(guestInfo.email))
             return 'Please give us your valid email';
+
+        if (!guestInfo.address)
+            return 'Please provide your address so we can send you your invitation';
 
         const guestValidation = validateGuestDetail(guestInfo);
         if (guestValidation) {
