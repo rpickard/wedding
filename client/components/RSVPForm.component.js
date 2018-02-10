@@ -119,7 +119,7 @@ class RSVPForm extends React.Component {
                     guestPlusOneInfo)}
 
                 <br />
-                
+
                 {this.renderRadioInput(
                     'hotelRoom',
                     'Would you like a room in the hotel for the wedding night*?',
@@ -172,6 +172,9 @@ class RSVPForm extends React.Component {
 
         if (!guestInfo.address)
             return 'Please provide your address so we can send you your invitation';
+
+        if (guestInfo.attendance === 'reception')
+            return null;
 
         const guestValidation = validateGuestDetail(guestInfo);
         if (guestValidation) {
