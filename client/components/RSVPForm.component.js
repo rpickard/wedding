@@ -173,7 +173,7 @@ class RSVPForm extends React.Component {
             return 'Please provide your address so we can send you your invitation';
 
         const guestPlusOneInfo = this.state.guestPlusOneInfo;
-        
+
         if (!guestPlusOneInfo.attendance)
             return 'Please let us know whether you will be bringing a plus one';
 

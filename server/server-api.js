@@ -42,7 +42,7 @@ ServerAPI.post('/rsvp', function (req, res) {
         willAttend: req.body.willAttend,
     };
 
-    if (req.body.guestPlusOne) {
+    if (req.body.guestPlusOne && req.body.guestPlusOne.name) {
         guestRSVPDocument.guestPlusOne = req.body.guestPlusOne;
     }
 
