@@ -65,7 +65,7 @@ const websiteContent = (
     <TopicContainer id="wedding" title="Wedding">
         <div className="container">
             <h2>ON THE WEDDING DAY</h2>
-            <p>The ceremony will start at  TBC at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
+            <p>The ceremony will start at  1:00pm at St. John's Wood Church. Please arrive 10 to 15 minutes before so everybody can get
                 seated and so we can start on time.
             </p>
             <p>After the ceremony someone will lead you to the reception at Chandos House where drinks and appetizers will
