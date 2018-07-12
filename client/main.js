@@ -9,15 +9,9 @@ import ReactDOM from 'react-dom';
 import Sticky from 'react-stickynode';
 
 import Menu from './components/Menu.component';
-import RSVPForm from './components/RSVPForm.component';
 import SecretTooltip from './components/SecretTooltip.component';
 import TitleBar from './components/TitleBar.component';
 import TopicContainer from './components/TopicContainer.component';
-
-if (location.protocol != 'https:')
-{
-    location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
-}
 
 const websiteContent = (
   <div>
@@ -31,7 +25,6 @@ const websiteContent = (
       <Menu id="menu"
         items={[{ label: 'THE BRIDE & GROOM', href: 'brideandgroom' },
                 { label: 'THE WEDDING', href: 'wedding' },
-                { label: 'RSVP', href: 'rsvp' },
                 { label: 'LOGISTICS', href: 'logistics' },
                 { label: 'GIFTS', href: 'gifts' }]}>
       </Menu>
@@ -90,7 +83,7 @@ const websiteContent = (
       <div className="container">
         <div className="one-half column">
           <h2>CEREMONY</h2>
-          <p>TBC @ St. John's Wood Church</p>
+          <p>1PM @ St. John's Wood Church</p>
           <p>
             <a href="img/stjohnswoodchurch.jpg"><img className="location-image" src="img/stjohnswoodchurch.jpg" alt="St. John's Wood Church" /></a>
           </p>
@@ -107,7 +100,7 @@ const websiteContent = (
         </div>
         <div className="one-half column">
           <h2>RECEPTION</h2>
-          <p>TBC @ Chandos House</p>
+          <p>3:30pm @ Chandos House</p>
           <p>
             <a href="img/chandoshouse.jpg"><img className="location-image" src="img/chandoshouse.jpg" alt="Chandos House" /></a>
           </p>
@@ -125,11 +118,6 @@ const websiteContent = (
 
       <hr />
 
-    </TopicContainer>
-
-    <TopicContainer id="rsvp" title="R.S.V.P.">
-      <RSVPForm>
-      </RSVPForm>
     </TopicContainer>
 
     <TopicContainer id="logistics" title="Logistics">
