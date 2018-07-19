@@ -66,7 +66,7 @@ const websiteContent = (
     <TopicContainer id="dinner" title="Dinner">
         <div className="container">
             <h2>Our Menu</h2>
-            <p>Our wedding banquet will be a set menu, please let us know if you have any specific dietary requirements so we can ask the chef to take them into consideration.
+            <p>All of you who have been invited to the reception are also invited to our wedding banquet, which will be a set menu.  Please let us know if you have any specific dietary requirements so we can ask the chef to take them into consideration.
             </p>
             <br/>
             <p><b>Starter</b> - Seared scallops with pea purée, roasted chorizo and sun-blanched tomato salsa</p>
