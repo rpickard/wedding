@@ -118,11 +118,11 @@ const websiteContent = (
       <hr />
       <div className="container">
             <h2>DINNER</h2>
-        <div className="container">
-            <h2>Our Menu</h2>
-            <p>All of you who have been invited to the reception are also invited to our wedding banquet, which will be a set menu.  Please let us know if you have any specific dietary requirements so we can ask the chef to take them into consideration.
+            <p>6pm @ Chandos House</p>
+            <p>All of you who have been invited to the reception are also invited to join us for our wedding banquet, which will be a set menu.  Please let us know if you have any specific dietary requirements so we can ask the chef to take them into consideration.
             </p>
             <br/>
+            <h3>Menu</h3>
             <p><b>Starter</b> - Seared scallops with pea purée, roasted chorizo and sun-blanched tomato salsa</p>
             <p><b>Main</b> - “Duck Two Ways” Shredded confit leg and honey glazed served with French beans, baby carrots, butter fondant potato and blackberry sauce</p>
             <p><b>Dessert</b> - Dark chocolate tart served with fresh berries and pistachio cream</p>
@@ -133,9 +133,7 @@ const websiteContent = (
             <p><b>Main</b> - Chicken pesto with penne </p>
             <p><b>Dessert</b> - Vanilla & chocolate ice cream sundae </p>
 
-        </div>
-
-        <hr />
+            <hr />
       </div>
     </TopicContainer>
 
