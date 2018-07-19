@@ -71,13 +71,13 @@ const websiteContent = (
             <br/>
             <p><b>Starter</b> - Seared scallops with pea purée, roasted chorizo and sun-blanched tomato salsa</p>
             <p><b>Main</b> - “Duck Two Ways” Shredded confit leg and honey glazed served with French beans, baby carrots, butter fondant potato and blackberry sauce</p>
-            <p><b>Desert</b> - Dark chocolate tart served with fresh berries and pistachio cream</p>
+            <p><b>Dessert</b> - Dark chocolate tart served with fresh berries and pistachio cream</p>
 
              <br/>
             <p><b>Children</b></p>
 
             <p><b>Main</b> - Chicken pesto with penne </p>
-            <p><b>Desert</b> - Vanilla & chocolate ice cream sundae </p>
+            <p><b>Dessert</b> - Vanilla & chocolate ice cream sundae </p>
 
         </div>
 
