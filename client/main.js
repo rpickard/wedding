@@ -134,6 +134,12 @@ const websiteContent = (
             <p><b>Dessert</b> - Vanilla & chocolate ice cream sundae </p>
 
             <hr />
+              
+            <h2>EVENING CELEBRATION</h2>
+            <p>8pm @ Chandos House</p> 
+            <p>Evening celebration starts with cake cutting. There will be drinks and dancing with music by DJ Kharrington.
+            </p>
+            <br/>
       </div>
     </TopicContainer>
 
