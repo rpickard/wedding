@@ -137,7 +137,7 @@ const websiteContent = (
               
             <h2>EVENING CELEBRATION</h2>
             <p>8pm @ Chandos House</p> 
-            <p>Evening celebration starts with cake cutting. There will be drinks and dancing with music by DJ Kharrington.
+            <p>Evening celebration starts with bouque tossing and cake cutting. There will be drinks and dancing with music by DJ Kharrington.
             </p>
             <br/>
       </div>
